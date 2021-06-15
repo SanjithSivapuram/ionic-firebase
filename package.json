@@ -2,6 +2,7 @@
   "name": "ionic-firebase",
   "version": "0.0.1",
   "private": true,
+  "homepage": "ionic-firebase-d1198.web.app",
   "dependencies": {
     "@capacitor/android": "^2.4.6",
     "@capacitor/core": "2.4.6",
